@@ -1,0 +1,13 @@
+.list-search {
+  ul {
+    margin-top: 40px;
+    max-height: 500px;
+    max-width: 500px;
+    min-width: 500px;
+    overflow-y: scroll;
+    list-style: none;
+    li {
+      margin: 10px 0;
+    }
+  }
+}
