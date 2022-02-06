@@ -1,9 +1,10 @@
-import './styles/styles.scss';
+import { QuickSearch } from "./components/QuickSearch/QuickSearch";
+import "./styles/styles.scss";
 
 function App() {
   return (
     <div className="App">
-      "It works"
+      <QuickSearch />
     </div>
   );
 }
